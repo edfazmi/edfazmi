@@ -60,7 +60,7 @@ Berikut beberapa sertifikasi yang telah saya peroleh:
   </tr>
   <tr>
     <td>
-      <img src="Certificate Detail - CODEPOLITAN_page-0001.jpg" width="80" alt="Codepolitan" />
+      <img src="img/Certificate Detail - CODEPOLITAN_page-0001.jpg" width="80" alt="Codepolitan" />
     </td>
     <td>
       <strong>Sertifikat Belajar Python Dasar</strong><br/>
