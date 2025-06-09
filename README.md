@@ -59,6 +59,14 @@ Berikut beberapa sertifikasi yang telah saya peroleh:
     </td>
   </tr>
   <tr>
+    <td>
+      <img src="img/Certificate Detail - CODEPOLITAN_page-0001" width="80" alt="Oracle" />
+    </td>
+    <td>
+      <strong>Sertifikat Belajar Python Dasar</strong><br/>
+      <em>Codepolitan, 2025</em>
+    </td>
+  </tr>
 </table>
 
 ---
